@@ -1,0 +1,31 @@
+{
+  "name": "AmpUp",
+  "short_name": "AmpUp",
+  "description": "Amp Up Your Life",
+  "start_url": "https://amp-up-nutrition.netlify.app/",
+  "scope": "https://amp-up-nutrition.netlify.app/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#c8f135",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
